@@ -1,5 +1,6 @@
 dash==2.14.1
 gunicorn==19.7.1
+dash_bootstrap_components
 numpy
 pandas
 plotly
